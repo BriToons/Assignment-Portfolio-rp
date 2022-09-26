@@ -1,0 +1,28 @@
+body{
+    background-color:slategray;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.sprint1{
+    color: pink;
+    text-decoration-line: overline underline;
+    padding-left: 70px;
+}
+.sprint2{
+    color:lime;
+    text-decoration-line: overline underline;
+    padding-left: 70px;
+}
+.description{
+    color:beige;
+    text-decoration-line: underline;
+    text-align: center;
+    font-size: 25px;
+}
+.update{
+    text-align: center;
+}
