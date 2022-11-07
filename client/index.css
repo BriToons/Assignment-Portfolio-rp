@@ -23,6 +23,19 @@ h2{
     text-decoration-line: overline underline;
     padding-left: 70px;
 }
+
+.sprint4{
+    color: aqua;
+    text-decoration: overline underline;
+    padding-left: 70px;
+}
+
+.final_project{
+    color:deeppink;
+    text-decoration-line: overline underline;
+    padding-left: 70px;
+}
+
 .description{
     color:beige;
     text-decoration-line: underline;
